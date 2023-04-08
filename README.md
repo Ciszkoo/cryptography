@@ -7,3 +7,6 @@ This script can be used to perform operations using the Caesar cipher or the aff
 
 ### [XOR](xor)
 This script demonstrates that using a one-time pad more than once enables the cipher to be broken.
+
+### License
+These scripts are licensed under the MIT License. Please see the [LICENSE](LICENSE.md) file for details.
