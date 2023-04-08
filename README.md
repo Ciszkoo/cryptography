@@ -1,4 +1,4 @@
-# Cryptography
+# Cryptography - Programming Assignments
 
 This repository contains scripts written in Scala for cryptography labs in the Practical Computer Science course. The scripts can be run using the scala-cli tool. Please note that the script names may not be ideal, but they are imposed by the course instructor.
 
